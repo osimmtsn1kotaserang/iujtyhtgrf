@@ -83,7 +83,7 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover !important;  /* <-- background full layar HP */
   background-position: center;
-  backgroun-color: #a641c5;
+  background-color: #a641c5;
 }
 .Homepage {
   background-image: url(img/bckgrnd1.jpeg);
@@ -455,6 +455,7 @@ html, body {
     padding: 14px;
   }
 
+}
 }
 
 
