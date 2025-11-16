@@ -83,6 +83,7 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover !important;  /* <-- background full layar HP */
   background-position: center;
+  backgroun-color: purple;
 }
 .Homepage {
   background-image: url(img/bckgrnd1.jpeg);
@@ -441,4 +442,5 @@ html, body {
     font-size: 0.82rem;
     padding: 14px;
   }
+
 }
